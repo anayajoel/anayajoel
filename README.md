@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi there 👋<br><br>I'm a Business Intelligence student focused on building intelligent business systems through automation, data engineering, and AI.<br><br>I enjoy transforming manual workflows into scalable solutions using Python, SQL, Google Apps Script, Power BI, and modern AI tools.<br><br>Currently exploring AI Agents, RAG, MCP, cloud technologies, and data engineering while developing real-world automation projects.<br><br>**Current focus**<br><br>* 🤖 AI Agents & Agentic Workflows<br>* 📊 Business Intelligence & Analytics<br>* ⚙️ Business Process Automation<br>* 🛠️ Data Engineering<br>* ☁️ Cloud Technologies<br>
+## 💫 About Me:
+## Hi there 👋<br><br>I'm a Business Intelligence student focused on building intelligent business systems through automation, data engineering, and AI.<br><br>I enjoy transforming manual workflows into scalable solutions using Python, SQL, Google Apps Script, Power BI, and modern AI tools.<br><br>Currently exploring AI Agents, RAG, MCP, cloud technologies, and data engineering while developing real-world automation projects.<br><br>**Current focus**<br><br>* 🤖 AI Agents & Agentic Workflows<br>* 📊 Business Intelligence & Analytics<br>* ⚙️ Business Process Automation<br>* 🛠️ Data Engineering<br>* ☁️ Cloud Technologies<br>
 
 
 ## 🌐 Socials:
